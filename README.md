@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--ur-rde--Shaik-Tajuddin.aem.page/
-- Live: https://main--ur-rde--Shaik-Tajuddin.aem.live/
+- Preview: https://main--eds-poc-rde--Shaik-Tajuddin.aem.page/
+- Live: https://main--eds-poc-rde--Shaik-Tajuddin.aem.live/
 
 ## Documentation
 
